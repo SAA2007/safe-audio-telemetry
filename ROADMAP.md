@@ -11,9 +11,9 @@
 **Estimated Difficulty:** 1/10
 **Estimated Time:** 1 Day
 
-* **Date Started:** `[ FILL IN DATE ]`
-* **Date Finished:** `[ FILL IN DATE ]`
-* **Actual Difficulty:** `[ _ / 10 ]`
+* **Date Started:** `[ 12/23/2025 ]`
+* **Date Finished:** `[ 12/23/2025 ]`
+* **Actual Difficulty:** `[ 1 / 10 ]`
 
 ### Tasks
 - [x] Create GitHub Repository (Name: `safe-audio-telemetry`).
