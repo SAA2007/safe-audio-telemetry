@@ -1,0 +1,1 @@
+This software requires a visible foreground notification to run. It is designed for personal data logging, not surveillance.

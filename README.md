@@ -1,0 +1,1 @@
+A store-and-forward telemetry system for devices I own, focusing on resilience in poor network conditions.
